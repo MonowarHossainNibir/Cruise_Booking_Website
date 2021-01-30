@@ -100,8 +100,8 @@ nav ul li a:hover, a.active{
     color: #3352F2;
     font-size: 30px;
     padding: 2px;
-    margin: 10px 5px 0px 0px;
-    word-spacing: 20px;
+    margin: 28px 5px 0px 0px;
+    word-spacing: 2px;
 }
 .booking-form .inputs{
     display: grid;
@@ -122,3 +122,4 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+
