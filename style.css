@@ -36,6 +36,8 @@ nav ul li a{
 }
 nav ul li a:hover, a.active{
     background-color: #E33741;
+    color: white;
+    text-decoration: none;
     border-radius: 5px;
 }
 .main-content{
@@ -122,4 +124,8 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
-
+#confirm{
+    display: none;
+    color: green;
+    text-align: center;
+}
